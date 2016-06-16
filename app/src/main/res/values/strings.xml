@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">tipcalc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main.button.submit">Calcular</string>
+    <string name="main.hint.bill">Total</string>
+    <string name="main.hint.percentaje">Porcentaje</string>
+    <string name="main.button.increase">+</string>
+    <string name="main.button.decrease">-</string>
+    <string name="main.button.clear">Borrar recientes</string>
+    <string name="main.notice.clear">Elementos recientes ha quedado vacio</string>
+    <string name="main.manu.action.about">Acerca de</string>
+
+    <string name="global.message.tip">Propina %,.1f</string>
+    <string name="tipdetail.message.bill">Total %,.1f</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tip_detail">TipDetailActivity</string>
+</resources>
